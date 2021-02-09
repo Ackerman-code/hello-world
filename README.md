@@ -1,2 +1,3 @@
 # hello-world
-first repository
+hi i am omar alvear
+I like caring for the environment and data science
